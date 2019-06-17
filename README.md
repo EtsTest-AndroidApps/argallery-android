@@ -10,6 +10,7 @@ Examples of how the app work can be seen [here](https://is.muni.cz/th/yabmm/vide
 ![ar](./screenshots/argalleryWall.png)
 
 ## Application Installation
+
 1. Install [Android Studio](https://developer.android.com/studio/) and the latest Android SDK tools. 
 2. Clone or download the repository into a chosen folder. 
 3. Open the project in the IDE, let it install all the necessary libraries and tools. 
@@ -17,4 +18,5 @@ Examples of how the app work can be seen [here](https://is.muni.cz/th/yabmm/vide
 5. The file can be used to install the application on a mobile device, but be sure to have one that [supports ARCore platform](https://developers.google.com/ar/discover/supported-devices).
 
 ## Looking for iOS?
+
 [![Apple iOS](./screenshots/apple.jpg) Click here](https://github.com/Kentico/argallery-ios)
